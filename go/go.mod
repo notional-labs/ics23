@@ -1,4 +1,4 @@
-module github.com/notional-labs/ics23/go
+module github.com/confio/ics23/go
 
 go 1.19
 
@@ -7,4 +7,4 @@ require (
 	golang.org/x/crypto v0.2.0
 )
 
-replace github.com/gogo/protobuf => github.com/cosmos/gogoproto v1.4.3
+// replace github.com/gogo/protobuf => github.com/cosmos/gogoproto v1.4.3
